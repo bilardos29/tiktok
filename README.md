@@ -11,7 +11,6 @@
 ## 📸 Screenshot
 <div>
     <img alt="Dashboard" height="460" src="screenshot/capture_home.png" width="210"/>
-    <img alt="Dashboard" height="460" src="screenshot/capture_detail_user.png" width="210"/>
     <img alt="Dashboard" height="460" src="screenshot/capture_inbox.png" width="210"/>
     <img alt="Dashboard" height="460" src="screenshot/capture_profile.png" width="210"/>
 </div>
