@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tiktok/screen/profile/views/likes_widget.dart';
+import 'package:tiktok/feature/profile/views/likes_widget.dart';
 import 'package:tiktok/utils/function_utils.dart';
 import 'package:tiktok/widgets/profile_frame_widget.dart';
 import 'views/profile_tab.dart';
