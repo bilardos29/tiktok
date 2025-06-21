@@ -50,20 +50,10 @@ class _UserProfilePageState extends State<UserProfilePage> {
                 ),
                 bottom: const TabBar(tabs: [
                   Tab(icon: Icon(Icons.grid_3x3, color: Colors.black)),
-                  Tab(icon: Icon(Icons.lock, color: Colors.black)),
-                  Tab(icon: Icon(Icons.favorite_border, color: Colors.black)),
-                  Tab(
-                      icon: Icon(Icons.bookmark_add_outlined,
-                          color: Colors.black)),
-                  Tab(icon: Icon(Icons.favorite_border, color: Colors.black)),
                 ]))
           ],
           body: const TabBarView(
             children: [
-              ProfileTabView(),
-              ProfileTabView(),
-              ProfileTabView(),
-              ProfileTabView(),
               ProfileTabView(),
             ],
           ),
